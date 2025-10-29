@@ -28,7 +28,3 @@ This site showcases flooring services with a clean, bold **black & red theme**, 
 | **Custom SVGs** | Lightweight, scalable icons |
 | **Email Links** | Mailto-based contact system |
 
----
-
-## 🗂️ Project Structure
-
