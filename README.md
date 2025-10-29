@@ -30,5 +30,5 @@ This site showcases flooring services with a clean, bold **black & red theme**, 
 
 ---
 
-## 🗂️ Project Structure
+
 
