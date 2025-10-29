@@ -1,14 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
 export default defineConfig({
-  plugins: [
-    react({
-      babel: {
-        plugins: [['babel-plugin-react-compiler']],
-      },
-    base:'/SNT-Flooring-Website/',
-    }),
-  ],
+  base: '/SNT-Flooring-Website/',   // <-- EXACT repo name, leading & trailing slash
+  plugins: [react()],
 })
