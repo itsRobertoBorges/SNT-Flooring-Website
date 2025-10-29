@@ -1,18 +1,34 @@
-# React + Vite
+# 🧱 SNT Flooring — Black & Red Themed Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive single-page React website built for **SNT Flooring**.  
+This site showcases flooring services with a clean, bold **black & red theme**, featuring smooth scroll navigation, interactive image galleries, and a modal-based gallery viewer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ **Single Page Layout** — Fast and seamless navigation (no page reloads)
+- 🎯 **Smooth Scroll Navigation** — Click a navbar link to scroll to any section
+- 🖼️ **Responsive Gallery** — Grid layout with modal lightbox viewer
+- 🧭 **Fixed Navbar** — Transparent black bar with brand red accents and mobile menu
+- 💬 **Contact CTA** — Opens user’s email app with prefilled subject line
+- 🎨 **Custom Code-Art Backgrounds** — Animated backdrop for a modern developer aesthetic
+- 📱 **Fully Responsive** — Looks sharp on mobile, tablet, and desktop
+- 🧰 **Built with React + Tailwind CSS** (no backend required)
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🧩 Tech Stack
 
-## Expanding the ESLint configuration
+| Tech | Purpose |
+|------|----------|
+| **React (Vite)** | Frontend framework |
+| **Tailwind CSS** | Styling and layout |
+| **Vanilla JS Scroll API** | Smooth scroll behavior |
+| **Custom SVGs** | Lightweight, scalable icons |
+| **Email Links** | Mailto-based contact system |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🗂️ Project Structure
+
