@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" role="img" aria-label="SNT">
+  <rect width="100%" height="100%" fill="black"></rect>
+  <text x="50%" y="55%" text-anchor="middle" fill="#b30000" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800">
+    SNT
+  </text>
+  <rect x="50" y="75%" width="100" height="6" fill="#b30000"></rect>
+</svg>
